@@ -1,0 +1,2 @@
+#!/bin/bash
+exec docker run --interactive docker-python3-tools pylint "$@"

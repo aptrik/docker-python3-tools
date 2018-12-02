@@ -1,0 +1,12 @@
+black[d]; python_version >= '3.0'
+caniusepython3
+flake8-bugbear; python_version >= '3.0'
+flake8-comprehensions
+flake8-import-order
+flake8-rst-docstrings
+mccabe
+pep8-naming
+pylint
+pylint-common
+pylint-mccabe
+yapf
