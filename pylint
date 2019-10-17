@@ -1,2 +1,2 @@
 #!/bin/bash
-exec docker run --interactive docker-python3-tools pylint "$@"
+exec docker run --interactive --rm docker-python3-tools pylint "$@"
